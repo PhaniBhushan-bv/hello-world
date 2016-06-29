@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+HI Humans!
+
+Phani Here, I like Apex, VF and JS
+I have started learning new things
+
